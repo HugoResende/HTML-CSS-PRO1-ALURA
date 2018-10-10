@@ -1,0 +1,49 @@
+
+.contato-principal{
+    font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: rgb(129, 116, 250);
+	font-size: 120%;
+    line-height: 1.5;
+    text-align: center;
+}
+.contato1{
+
+    position: fixed;
+    margin-left: 40%;    
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+.contato2{
+
+    position: fixed;
+    margin-left: 50%;
+    top: 35%;
+    transform: translateY(-50%) translateX(-50%);
+    
+    
+}
+body{
+    font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: rgb(129, 116, 250);
+	font-size: 120%;
+    line-height: 1.5;
+}
+.navegacao-site{
+    font-family: "Crimson Text", "Times New Roman", serif;
+    font-size: 120%;
+
+}
+
+footer {
+	background-color: #000;
+	color: #F2FFFC;
+	clear: both;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+
+    
+  
+

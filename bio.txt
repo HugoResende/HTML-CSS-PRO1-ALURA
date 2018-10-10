@@ -1,0 +1,2 @@
+﻿ Trabalho usando a web como plataforma, ou seja, respiro HTML5, CSS3 e JavaScript. Crio sites para todos, seguindo as principais diretivas de <strong> acessibilidade, responsividade e web semântica</strong>",
+sem descuidar da qualidade de código."
